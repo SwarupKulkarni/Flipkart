@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-20T11:29:42 IST" name="Default suite" finished-at="2022-10-20T11:30:31 IST" duration-ms="48608">
+    <groups>
+    </groups>
+    <test started-at="2022-10-20T11:29:42 IST" name="Default test" finished-at="2022-10-20T11:30:31 IST" duration-ms="48608">
+      <class name="com.flipkart.testcases.VerifyLoginPage">
+        <test-method is-config="true" signature="WebdriverSetup()[pri:0, instance:com.flipkart.testcases.VerifyLoginPage@16293aa2]" started-at="2022-10-20T11:29:42 IST" name="WebdriverSetup" finished-at="2022-10-20T11:29:49 IST" duration-ms="6894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebdriverSetup -->
+        <test-method signature="test1()[pri:0, instance:com.flipkart.testcases.VerifyLoginPage@16293aa2]" started-at="2022-10-20T11:29:49 IST" name="test1" finished-at="2022-10-20T11:30:19 IST" duration-ms="29291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:com.flipkart.testcases.VerifyLoginPage@16293aa2]" started-at="2022-10-20T11:30:19 IST" name="test2" finished-at="2022-10-20T11:30:30 IST" duration-ms="10948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.flipkart.testcases.VerifyLoginPage@16293aa2]" started-at="2022-10-20T11:30:30 IST" name="close" finished-at="2022-10-20T11:30:31 IST" duration-ms="1378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.flipkart.testcases.VerifyLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
